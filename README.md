@@ -1,5 +1,9 @@
 # Amici testing
 
+https://github.com/ICB-DCM/AMICI  
+http://icb-dcm.github.io/AMICI/index.html  
+https://pypi.org/project/amici/0.10.7/  
+
 
 ## requirements
 ### blas
@@ -27,3 +31,5 @@ mkvirtualenv amici --python=python3.6
 (amici) pip install jupyterlab
 (amici) ipython kernel install --user --name=amici
 ```
+
+
