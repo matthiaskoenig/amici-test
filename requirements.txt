@@ -1,0 +1,6 @@
+pkgconfig
+amici>=0.10.7
+numpy
+matplotlib
+pandas
+
